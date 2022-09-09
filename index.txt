@@ -1,0 +1,74 @@
+<DOCTYPE>
+   <html lang="en">
+   <head>
+   <UL>
+       <meta charset="UTF-8>
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Lenguajes Web Fronted</title>
+       </head>
+       <body>
+   
+       <body>
+       <html>
+   
+   <table width="100%" border="1">
+     <img src="https://www.creatopy.com/blog/wp-content/uploads/2017/03/How-to-Make-Responsive-HTML5-Banner-Ads-.png">
+       
+   
+       </td>
+      </tr>
+      <tr>
+   <td rowspan="3" width="20%"><!--Menu-->
+      <ul>
+      <li><a>inicio</a></li>
+      <li><a>Frontend</a></li>
+      <li><a>Acerca de...</a></li>
+     </ul>
+   </td>
+      <td></td><!--Seccion-->
+   <DIV>
+   <h2>¿Que es HTML?</h2>
+   <img src="imagenes/html5.jpg" width="80px">
+   <p>Es un lenjuage que se utiliza para la creacion de paginas en la www.
+   </p>
+   </DIV>
+</td>
+   </tr>
+   <tr>
+      <td></td><!--Seccion-->
+      <DIV>
+         <h2>¿Que es CSS?</h2>
+         <img src="imagenes/css.png" width="80px">
+         <p>Es un lenguaje de diseño grafico para definir y crear la presentacion de un documento estructurado escrito en un lenjuage de mercado.
+            <ul>
+               <li><a>HTML 1</a></li>
+               <li><a>HTML 2</a></li>
+               <li><a>HTML 3</a></li>
+               <li><a>HTML 4</a></li>
+               <li><a>HTML 5</a></li>
+            </ul>
+            </div>
+         </td>
+     </tr>
+     <tr>
+         <td>
+             <div>
+      <td></td><!--Seccion-->
+      <DIV>
+         <h2>¿Que es JAVASCRIPT?</h2>
+         <img src="imagenes/javascript.webp" width="80px">
+         <p>Es un lenguaje de programacion que se puede utilizar para contruir sitios WEB y para hacerlos mas interactivos.
+         </p>
+         </DIV>
+      </td>
+   </tr>
+   <tr heig="100px"><!--Pie de pagina-->
+   </tr>
+        <td colspan="2">
+        <h3>Licenciatura en Sistemas Computacionales</h3>
+        <p>/&copy; Copyright 2022. Cinthia Diaz Reynosa</p>
+        </td>
+      </tr>
+   </table>
+</body>
+</html>
